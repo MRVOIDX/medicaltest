@@ -1,0 +1,52 @@
+I want to update my medical recommendation website with the following features, all based on Turkey 🇹🇷:
+
+Dark/Light Mode Toggle 🌙☀️
+– Add a small button in the top-right corner that switches between dark and light themes using CSS.
+– The mode should stay active until the user changes it again.
+
+Search Bar for Departments 🔍
+– Add a search input where users can type a medical department name (for example: Dahiliye, Kardiyoloji, Deri ve Zührevi Hastalıkları, Diş Hekimliği, etc.).
+– When a department is found, show a short explanation in Turkish about what it does. Example:
+
+“Kardiyoloji: Kalp ve damar hastalıklarıyla ilgilenen tıp dalıdır.”
+
+Emergency Info Section 🚑
+– Add a small card or section at the bottom with Turkey’s emergency numbers:
+
+112 — Genel Acil / Ambulans
+
+110 — İtfaiye
+
+155 — Polis
+
+156 — Jandarma
+– Include a button labeled “En Yakın Hastaneyi Bul” that links to:
+https://www.google.com/maps/search/hastane+yakınımda
+
+Health Tips Corner 💬
+– Add a small sidebar or section with 3–5 rotating or randomly shown Turkish health tips, such as:
+
+“Her gün en az 2 litre su içmeyi unutmayın.”
+
+“Kahvaltıyı atlamayın, güne enerjiyle başlayın.”
+
+“Günde en az 30 dakika yürüyün.”
+
+“Yeterli uyku alın (7–8 saat).”
+
+“Sigara ve alkolden uzak durun.”
+
+Save or Print Result 🧾
+– After showing the user’s recommended department, add a “Sonucu Yazdır veya PDF Olarak Kaydet” button that allows users to print or save their recommendation as a PDF.
+
+Simple Loading Animation ⏳
+– When the user clicks “Gönder” to check symptoms, show a short animation or text like “Belirtiler analiz ediliyor…” for 2–3 seconds before showing results.
+
+Responsive Design 📱💻
+– Make sure the entire website looks good on both computers and mobile phones.
+– Use Bootstrap 5 or Flexbox for layout.
+
+Design Style
+– Keep the design clean and modern, using light blue and white tones (hospital style).
+– Use rounded corners, soft shadows, and clear Turkish text.
+– Add a small Turkish flag 🇹🇷 icon next to the site title for a local touch.
